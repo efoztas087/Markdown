@@ -2,7 +2,7 @@
 
 Dit is een heerlijk recept voor zelfgemaakte pompoensoep.
 
-![Pompoensoep](https://example.com/pompoensoep.jpg)
+![Pompoensoep](https://miljuschka.nl/wp-content/uploads/2023/09/pompoensoep-min-scaled.jpg)
 
 ## Ingrediënten:
 

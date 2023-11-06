@@ -2,7 +2,7 @@
 
 Dit is een heerlijk recept voor zelfgemaakte pompoensoep.
 
-(https://www.google.com/search?sca_esv=579734912&rlz=1C1CHBF_nlNL922NL922&sxsrf=AM9HkKl_qRILmLvwTljfHm-481hksAMvMw:1699267728273&q=pompoensoep&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwjKncnKma-CAxWthf0HHdjACjAQ0pQJegQIDBAB&biw=1920&bih=955&dpr=1#imgrc=PHHI4Rc2nul8TM)
+![Pompoensoep](https://example.com/pompoensoep.jpg)
 
 ## Ingrediënten:
 
@@ -27,11 +27,5 @@ Dit is een heerlijk recept voor zelfgemaakte pompoensoep.
 
 5. Giet de groentebouillon in de pan en breng het geheel aan de kook. Laat het sudderen tot de pompoen zacht is, meestal ongeveer 20-30 minuten.
 
-6. Gebruik een staafmixer om de soep glad te pureren. Als je geen staafmixer hebt, kun je de soep in porties in een blender pureren.
+6. Gebruik een staafmixer om de soep glad te pureren. Als je geen staafmixer hebt, kun je de
 
-7. Breng de soep op smaak met zout, peper en gemalen nootmuskaat. Voeg de room toe als je een romigere textuur wilt.
-
-8. Serveer de pompoensoep warm. Je kunt wat verse kruiden of geroosterde pompoenpitten toevoegen als garnituur.
-
-Eet smakelijk!
- 
